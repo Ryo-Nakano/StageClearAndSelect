@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8E399240-9581-53D7-7895-AFE1DCA446C5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Stage1_Manager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/StageSelectMannager.cs" Line="31" Column="35" />
+      <File FileName="Assets/Scripts/Stage1_Manager.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/Stage2_Manager.cs" Line="20" Column="43" />
+      <File FileName="Assets/Scripts/Stage3_Manager.cs" Line="20" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3e3bdb1c-5267-4b06-be07-d09abd1a8e7e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
